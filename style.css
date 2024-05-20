@@ -1,0 +1,335 @@
+.page1
+{
+    border: 1px solid;
+    display: inline;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: lightcyan;
+
+}
+.h1
+{
+    font-size: 50px;
+    position: cover;
+
+}
+.container
+{
+    padding: 25px 5px;
+}
+.page2
+{
+    border: 1px solid;
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.page3
+{
+    
+    height: 15.5rem;
+    width: 60%;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+
+
+.m1
+{
+    height: 14.8rem;
+    width: 22rem;
+    padding:5px;
+    border-radius: 20px;
+}
+.page4
+{
+    float: right;
+    position: relative;
+    left: -4%;
+    top:-8%;
+    font-size: 25px;
+
+}
+.page5
+{
+   
+    position: relative;
+    left: 50%;
+    top:-35%;
+   
+    width: 22rem;
+    
+}
+.m2
+{
+    height: 34.5rem;
+    width: 31rem;
+    position: relative;
+    left:  780px;
+    top: -640px;
+    border-radius: 20px;
+}
+.page7 div
+{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: lightcyan;
+}
+.page7
+{
+   
+    display: inline-flex;
+    grid-column-gap: 20px;
+    position: relative;
+    left: 810px;
+    top: -700px;
+
+}
+@media screen and (max-width: 1200px)
+{
+    .page4
+{
+    float: right;
+    position: relative;
+    left: -3%;
+    top:-0.8rem;
+    font-size: 1.1rem;
+
+}
+ .page5
+{
+   
+    position: relative;
+    left: 58%;
+    top:-35%;
+    width: 19rem;
+    
+}
+   .m2
+{
+    height: 34.5rem;
+    width: 31rem;
+    position: relative;
+    left:  680px;
+    top: -640px;
+    border-radius: 20px;
+}
+   .page7
+{
+   
+    display: inline-flex;
+    grid-column-gap: 20px;
+    position: relative;
+    left: 700px;
+    top: -700px;
+
+}
+    .page3
+    {
+        
+        height: 15.5rem;
+        width: 55%;
+        margin-top: 40px;
+        border-radius: 10px;
+        background-color: lightgreen;
+    }
+
+}
+@media screen and (max-width: 1024px)
+{
+    .page4
+{
+    float: right;
+    position: relative;
+    left: -1%;
+    top:-0.8rem;
+    font-size: 0.9rem;
+
+}
+ .page5
+{
+   
+    position: relative;
+    left: 65%;
+    top:-47%;
+    width: 12rem;
+    
+}
+   .m2
+{
+    height: 34.5rem;
+    width: 25rem;
+    position: relative;
+    left:  605px;
+    top: -672px;
+    border-radius: 20px;
+}
+   .page7
+{
+   
+    display: inline-flex;
+    grid-column-gap: 5px;
+    position: relative;
+    left: 615px;
+    top: -740px;
+
+}
+    .page3
+    {
+        
+        height: 15.5rem;
+        width: 59%;
+        margin-top: 40px;
+        border-radius: 10px;
+        background-color: lightgreen;
+    }
+
+}
+/*@media screen and (min-width: 412px)
+{
+    .page4
+{
+    float: right;
+    position: relative;
+    left: -1%;
+    top:-0.8rem;
+    font-size: 0.9rem;
+
+}
+ .page5
+{
+   
+    position: relative;
+    left: 65%;
+    top:-47%;
+    width: 12rem;
+    
+}
+   .m2
+{
+    height: 34.5rem;
+    width: 25rem;
+    position: relative;
+    left:  605px;
+    top: -672px;
+    border-radius: 20px;
+}
+   .page7
+{
+   
+    display: inline-flex;
+    grid-column-gap: 5px;
+    position: relative;
+    left: 615px;
+    top: -740px;
+
+}
+    .page3
+    {
+        
+        height: 15.5rem;
+        width: 59%;
+        margin-top: 40px;
+        border-radius: 10px;
+        background-color: lightgreen;
+    }
+
+}*/
+@media screen and (min-width: 2400px)
+{
+.page1
+{
+    border: 1px solid;
+    display: inline;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: lightcyan;
+
+}
+.h1
+{
+    font-size: 50px;
+    position: cover;
+
+}
+.container
+{
+    padding: 25px 5px;
+}
+.page2
+{
+    border: 1px solid;
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.page3
+{
+    
+    height: 15.5rem;
+    width: 60%;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+
+
+.m1
+{
+    height: 14.8rem;
+    width: 61rem;
+    padding:5px;
+    border-radius: 20px;
+}
+.page4
+{
+    float: right;
+    position: relative;
+    left: -4%;
+    top:-8%;
+    font-size: 25px;
+
+}
+.page5
+{
+   
+    position: relative;
+    left: 71.5%;
+    top:-35%;
+   
+    width: 22rem;
+    
+}
+.m2
+{
+    height: 34.5rem;
+    width: 47rem;
+    position: relative;
+    left:  1600px;
+    top: -640px;
+    border-radius: 20px;
+}
+.page7 div
+{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 8px;
+    background-color: lightcyan;
+}
+.page7
+{
+   
+    display: inline-flex;
+    grid-column-gap: 70px;
+    position: relative;
+    left: 910px;
+    top: -700px;
+
+}
+}   
